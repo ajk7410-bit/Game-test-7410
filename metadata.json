@@ -1,0 +1,5 @@
+{
+  "name": "Secret Code Quiz",
+  "description": "A 4-question quiz game where the user must guess the correct 4-digit code to proceed. The app is designed with a sleek, modern interface.",
+  "requestFramePermissions": []
+}
